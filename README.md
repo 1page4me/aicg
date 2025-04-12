@@ -1,6 +1,6 @@
-# AICG - AI Code Generator
+# AICG - AI Career Guidance
 
-A full-stack application for generating code using AI.
+An AI-based career guidance system that helps users discover and navigate their career paths.
 
 ## Project Structure
 
@@ -45,14 +45,14 @@ A full-stack application for generating code using AI.
 
 ## Features
 
-- AI-powered code generation
+- AI-powered career guidance
 - Modern web interface
 - RESTful API backend
-- Real-time code suggestions
+- Real-time suggestions and recommendations
 
 ## Technologies Used
 
 - Backend: Go, Gin
 - Frontend: Next.js, TypeScript
 - Database: PostgreSQL
-- AI: OpenAI API 
+- AI: OpenAI API
